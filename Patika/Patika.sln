@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patika_BookStore_Proje", "Patika_BookStore_Proje\Patika_BookStore_Proje.csproj", "{06433415-843A-48C8-A490-60FA161FC77B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5C9516DF-64EF-46B9-B8C0-E35F5F40B74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patika_BookStore_Proje.UnitTests", "Tests\Patika_BookStore_Proje.UnitTests\Patika_BookStore_Proje.UnitTests.csproj", "{F7B32F3A-B973-44BD-96BF-131AC597E1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06433415-843A-48C8-A490-60FA161FC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06433415-843A-48C8-A490-60FA161FC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06433415-843A-48C8-A490-60FA161FC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06433415-843A-48C8-A490-60FA161FC77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B32F3A-B973-44BD-96BF-131AC597E1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B32F3A-B973-44BD-96BF-131AC597E1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B32F3A-B973-44BD-96BF-131AC597E1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B32F3A-B973-44BD-96BF-131AC597E1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DFEC9C-47F1-4E87-A1E0-8A12AF4C126D}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7B32F3A-B973-44BD-96BF-131AC597E1F7} = {5C9516DF-64EF-46B9-B8C0-E35F5F40B74D}
+	EndGlobalSection
+EndGlobal
